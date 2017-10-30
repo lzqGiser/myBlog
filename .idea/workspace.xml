@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73230521-4dd9-4d2d-868f-16d477913440" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/代码人生/后端/node/vue-cli构建原理.md" afterPath="$PROJECT_DIR$/代码人生/后端/node/vue-cli构建原理.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,8 +52,8 @@
         <entry file="file://$PROJECT_DIR$/代码人生/后端/node/vue-cli构建原理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="264">
-                <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <first_editor relative-caret-position="208">
+                <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -353,12 +354,12 @@
       <option name="presentableId" value="Default" />
       <updated>1508740074821</updated>
       <workItem from="1508740076318" duration="24883000" />
-      <workItem from="1509350233736" duration="3876000" />
+      <workItem from="1509350233736" duration="3993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28759000" />
+    <option name="totallyTimeSpent" value="28876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="836" extended-state="0" />
@@ -535,8 +536,8 @@
     <entry file="file://$PROJECT_DIR$/代码人生/后端/node/vue-cli构建原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="264">
-            <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <first_editor relative-caret-position="208">
+            <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor>
