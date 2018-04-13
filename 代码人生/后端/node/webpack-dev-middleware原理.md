@@ -10,14 +10,19 @@
 
 <img src="./assets/webpack-dev-middleware/webpack-server.png" width=180 height=280>
 
-而这两个也是webpack-dev-server的核心内容；如果在
+> 而这两个也是webpack-dev-server的核心内容；如果在
 webpack-dev-server被开发出来的早期就使用过webpack搭建脚手架的同学，一般的选择组合都是webpack-dev-middleware + express的模式。当然webpack-dev-middleware本身也是必须作为
-express-style风格的server的中间件（例如也可以使用connect来开发，实际上，connect是express的底层）。因此如果想要使用koa这类的server，那么是不能直接使用的。当然npm上也有一些
+express-style风格的server的中间件（例如也可以使用connect来开发，实际上，connect是express的底层）。因此如果想要使用koa这类的server，那么是不能直接使用的。当然npm上也有一些对
+webpack-dev-middleware该造为koa版本的。
 
+> 实际上，如果我们只是搭建一个纯静态的网页开发脚手架，使用webpack-dev-server已经可以完成需求了。毕竟webpack-dev-server暴露了足够多的配置接口；但是如果你想拥有更底层的操作能力
+更灵活的改造想法，那么了解webpack-dev-middleware就很有必要了。
 
+#### webpack-dev-middleware解析
 
+> webpack-dev-middleware的文件结构：
 
+1.reporter.js: 主要完成log的输出，包括颜色美化等；
+2. index.js: 入口文件
 
-实际上，如果我们
-只是搭建一个纯静态的网页开发脚手架，使用webpack-dev-server已经可以完成需求了。
 
