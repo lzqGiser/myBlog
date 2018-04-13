@@ -22,7 +22,15 @@ webpack-dev-middleware该造为koa版本的。
 
 > webpack-dev-middleware的文件结构：
 
-1.reporter.js: 主要完成log的输出，包括颜色美化等；
-2. index.js: 入口文件
+1. reporter.js: 主要完成log的输出，包括颜色美化等；
+2. index.js: 入口文件,对外暴露接口；
+3. utils.js: 工具类；
+4. context.js: 定义作用域，同时挂载webpack的hook;
+5. middleware.js: 中间件接入，主要负责接入express服务器;
+
+> 核心文件主要有这五个文件构成；
+
+
+#### 如果要改造webpack-dev-middleware为koa版本该如何做
 
 
