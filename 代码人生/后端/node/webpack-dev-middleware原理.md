@@ -33,7 +33,7 @@ webpack-dev-middleware该造为koa版本的。
 4. context.js: 定义作用域，同时挂载webpack的hook;
 5. middleware.js: 中间件接入，主要负责接入express服务器;
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;核心文件主要有这五个文件构成。其中每一个文件拥有各自功能的方法。下面就一个一个来分析；
+&ensp;&ensp;&ensp;&ensp;核心文件主要有这五个文件构成。其中每一个文件拥有各自功能的方法。下面就一个一个来分析；
 核心文件主要有这五个文件构成。其中每一个文件拥有各自功能的方法。下面就一个一个来分析；
 ||||
 
