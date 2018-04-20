@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73230521-4dd9-4d2d-868f-16d477913440" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/前端/js/README.md" afterPath="$PROJECT_DIR$/技术/前端/js/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/前端/js/ejs之类的模版引擎是个什么东东.md" afterPath="$PROJECT_DIR$/技术/前端/js/ejs之类的模版引擎是个什么东东.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/前端/vue/README.md" afterPath="$PROJECT_DIR$/技术/前端/vue/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/前端/vue/聊聊虚拟dom.md" afterPath="$PROJECT_DIR$/技术/前端/vue/聊聊虚拟dom.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/后端/node/README.md" afterPath="$PROJECT_DIR$/技术/后端/node/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/后端/node/assets/binImg.png" afterPath="$PROJECT_DIR$/技术/后端/node/assets/binImg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/后端/node/assets/vueCli.png" afterPath="$PROJECT_DIR$/技术/后端/node/assets/vueCli.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/后端/node/assets/webpack-dev-middleware/webpack-server.png" afterPath="$PROJECT_DIR$/技术/后端/node/assets/webpack-dev-middleware/webpack-server.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/后端/node/vue-cli构建原理.md" afterPath="$PROJECT_DIR$/技术/后端/node/vue-cli构建原理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware原理.md" afterPath="$PROJECT_DIR$/技术/后端/node/webpack-dev-middleware原理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware改造为koa版本.md" afterPath="$PROJECT_DIR$/技术/后端/node/webpack-dev-middleware改造为koa版本.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/后端/node/命令行那些事儿.md" afterPath="$PROJECT_DIR$/技术/后端/node/命令行那些事儿.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/代码人生/后端/python/README.md" afterPath="$PROJECT_DIR$/技术/后端/python/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware原理.md" afterPath="$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware原理.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,7 +31,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="聊聊虚拟dom.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/代码人生/前端/vue/聊聊虚拟dom.md">
+        <entry file="file://$PROJECT_DIR$/技术/前端/vue/聊聊虚拟dom.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="216">
@@ -33,23 +45,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="命令行那些事儿.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/代码人生/后端/node/命令行那些事儿.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ejs之类的模版引擎是个什么东东.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/代码人生/前端/js/ejs之类的模版引擎是个什么东东.md">
+        <entry file="file://$PROJECT_DIR$/技术/前端/js/ejs之类的模版引擎是个什么东东.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="198">
@@ -63,8 +60,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="工作中曾经的小疑惑.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/技术/其他未分类/工作中曾经的小疑惑.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="144">
+                <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="webpack-dev-middleware改造为koa版本.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware改造为koa版本.md">
+        <entry file="file://$PROJECT_DIR$/技术/后端/node/webpack-dev-middleware改造为koa版本.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="54">
@@ -78,12 +90,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webpack-dev-middleware原理.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware原理.md">
+      <file leaf-file-name="webpack-dev-middleware原理.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/技术/后端/node/webpack-dev-middleware原理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="316">
-                <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="24" />
+              <first_editor relative-caret-position="251">
+                <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/关于我/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="36">
+                <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -116,6 +143,7 @@
         <option value="$PROJECT_DIR$/代码人生/前端/js/ejs之类的模版引擎是个什么东东.md" />
         <option value="$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware改造为koa版本.md" />
         <option value="$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware原理.md" />
+        <option value="$PROJECT_DIR$/技术/其他未分类/工作中曾经的小疑惑.md" />
       </list>
     </option>
   </component>
@@ -128,7 +156,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="825" />
+    <option name="height" value="834" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -168,87 +196,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="技术" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="技术" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="其他未分类" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="关于我" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码人生" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="后端" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码人生" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="后端" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码人生" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码人生" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,25 +344,25 @@
       <workItem from="1509350233736" duration="5808000" />
       <workItem from="1509534840567" duration="6454000" />
       <workItem from="1523610140991" duration="4968000" />
-      <workItem from="1524052808395" duration="2278000" />
+      <workItem from="1524052808395" duration="3909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44391000" />
+    <option name="totallyTimeSpent" value="46022000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14377682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21745351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18733154" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31650752" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31266847" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -405,7 +385,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/代码人生/前端/vue/聊聊虚拟dom.md">
+    <entry file="file://$PROJECT_DIR$/技术/前端/vue/聊聊虚拟dom.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
@@ -418,7 +398,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/命令行那些事儿.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/命令行那些事儿.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
@@ -431,7 +411,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware原理.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/webpack-dev-middleware原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="558">
@@ -444,7 +424,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/前端/js/ejs之类的模版引擎是个什么东东.md">
+    <entry file="file://$PROJECT_DIR$/技术/前端/js/ejs之类的模版引擎是个什么东东.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
@@ -457,7 +437,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/前端/vue/聊聊虚拟dom.md">
+    <entry file="file://$PROJECT_DIR$/技术/前端/vue/聊聊虚拟dom.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
@@ -470,7 +450,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/命令行那些事儿.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/命令行那些事儿.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
@@ -483,7 +463,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/前端/js/ejs之类的模版引擎是个什么东东.md">
+    <entry file="file://$PROJECT_DIR$/技术/前端/js/ejs之类的模版引擎是个什么东东.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="18">
@@ -496,7 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/vue-cli构建原理.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/vue-cli构建原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1764">
@@ -508,7 +488,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/前端/vue/聊聊虚拟dom.md">
+    <entry file="file://$PROJECT_DIR$/技术/前端/vue/聊聊虚拟dom.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
@@ -521,7 +501,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/命令行那些事儿.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/命令行那些事儿.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
@@ -534,7 +514,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/vue-cli构建原理.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/vue-cli构建原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1116">
@@ -546,7 +526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/前端/vue/聊聊虚拟dom.md">
+    <entry file="file://$PROJECT_DIR$/技术/前端/vue/聊聊虚拟dom.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
@@ -559,7 +539,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/命令行那些事儿.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/命令行那些事儿.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
@@ -572,7 +552,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/vue-cli构建原理.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/vue-cli构建原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="936">
@@ -605,7 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/前端/vue/README.md">
+    <entry file="file://$PROJECT_DIR$/技术/前端/vue/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="18">
@@ -618,7 +598,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/关于我/AboutMe.md" />
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/README.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="18">
@@ -631,7 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/python/README.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/python/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="18">
@@ -643,7 +623,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/前端/vue/聊聊虚拟dom.md">
+    <entry file="file://$PROJECT_DIR$/技术/前端/vue/聊聊虚拟dom.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
@@ -656,30 +636,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/关于我/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
-            <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/assets/binImg.png">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/assets/binImg.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/assets/vueCli.png">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/assets/vueCli.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/前端/js/README.md">
+    <entry file="file://$PROJECT_DIR$/技术/前端/js/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="54">
@@ -692,7 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/vue-cli构建原理.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/vue-cli构建原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="170">
@@ -704,11 +671,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/命令行那些事儿.md">
+    <entry file="file://$PROJECT_DIR$/关于我/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <first_editor relative-caret-position="36">
+            <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor>
@@ -717,7 +684,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/前端/js/ejs之类的模版引擎是个什么东东.md">
+    <entry file="file://$PROJECT_DIR$/技术/前端/js/ejs之类的模版引擎是个什么东东.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -736,7 +703,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware改造为koa版本.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/命令行那些事儿.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/webpack-dev-middleware改造为koa版本.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="54">
@@ -749,11 +729,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码人生/后端/node/webpack-dev-middleware原理.md">
+    <entry file="file://$PROJECT_DIR$/技术/后端/node/webpack-dev-middleware原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="316">
-            <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="24" />
+          <first_editor relative-caret-position="251">
+            <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/技术/其他未分类/工作中曾经的小疑惑.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor>
